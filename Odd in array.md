@@ -1,6 +1,6 @@
 <div>
 <h1>Print odd numbers in an array using Anonymous function & IIFE<h1>
-<h2>Using anonymous function<h2>
+<h2>Using anonymous function</h2>
 <p>let arr = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16];<br>
 let oddNumber = [];<br>
 let odd = function(arr){<br>
@@ -12,7 +12,7 @@ let odd = function(arr){<br>
     console.log(oddNumber);<br>
 }<br>
 odd(arr);<br>
-<b>Output array (8) [1, 3, 5, 7, 9, 11, 13, 15] */</b><br>
+<b>Output array: (8) [1, 3, 5, 7, 9, 11, 13, 15] */</b><br>
 </p></div>
 
 <div><h2>Using IIFE</h2>
