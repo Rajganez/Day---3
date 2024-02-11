@@ -1,4 +1,4 @@
-/* //Using anonymous function
+ //Using anonymous function
 let strarr = ['tamilnadu','kerala','andhra','karnataka','delhi','mumbai'];
 let strarr1 = [];
 let uppercase = function(strarr){
@@ -11,15 +11,15 @@ console.log(str2+str.join(''));
 }
 uppercase(strarr);
 //Output
-/* Tamilnadu
+Tamilnadu
 Kerala
 Andhra
 Karnataka
 Delhi
-Mumbai */ 
+Mumbai 
 
 //Using IIF
-/* let strarr = ['tamilnadu','kerala','andhra','karnataka','delhi','mumbai'];
+ let strarr = ['tamilnadu','kerala','andhra','karnataka','delhi','mumbai'];
 let strarr1 = [];
 ((strarr) =>{
 for (let i in strarr){
@@ -30,9 +30,9 @@ console.log(str2+str.join(''));
 }
 })(strarr); */
 //Output
-/* Tamilnadu
+ Tamilnadu
 Kerala
 Andhra
 Karnataka
 Delhi
-Mumbai */ 
+Mumbai 
